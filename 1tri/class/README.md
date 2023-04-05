@@ -7,11 +7,10 @@ Diagrama de classe
 ---
 title: Diagrama de Classe
 ---
-ClassDiagram
+classDiagram
     class TituloDaClasse
-        +Literal atributo_1
-        +Numerico atributo_2
-        +metodo_1()
-        +metodo_2()
-
+        String: +atributo_1
+        Integer: +atributo_2
+        Void: +metodo_1()
+        Void: +metodo_2()
 ```
