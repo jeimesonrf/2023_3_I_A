@@ -1,0 +1,17 @@
+0 Faça um programa que leia um número e verifique se ele é positivo, negativo ou zero.
+1 Faça um programa que leia um número e verifique se ele é par ou ímpar.
+2 Faça um programa que leia três números e mostre o maior deles.
+3 Faça um programa que leia três números e mostre o menor deles.
+4 Faça um programa que leia a idade de uma pessoa e verifique se ela é maior ou menor de idade.
+5 Faça um programa que leia o peso de uma pessoa e verifique se ela está acima ou abaixo do peso ideal.
+6 Faça um programa que leia o nome e a idade de uma pessoa e verifique se ela pode ou não votar.
+7 Faça um programa que leia três números e verifique se eles podem formar um triângulo.
+8 Faça um programa que leia dois números e mostre qual deles é o maior, ou se são iguais.
+9 Faça um programa que leia dois números e calcule a média aritmética entre eles.
+10 Faça um programa que leia um número e verifique se ele é primo ou não.
+11 Faça um programa que leia um número e verifique se ele é múltiplo de 3 ou de 5.
+12 Faça um programa que leia o nome de uma pessoa e verifique se ele começa com a letra "A".
+13 Faça um programa que leia o nome de uma pessoa e verifique se ele tem mais de 5 letras.
+14 Faça um programa que leia uma letra e verifique se ela é uma vogal ou uma consoante.
+15 Faça um programa que leia um número e verifique se ele é um número inteiro ou um número decimal.
+16 Faça um programa que leia a altura e o peso de uma pessoa e calcule o seu índice de massa corporal (IMC).
