@@ -12,7 +12,7 @@ observações:
 
 **_media ponderada:_**
 
-$$media = \frac{(peso1*valor1 + peso2*valor2 +peso3*valor3+...)}{peso1+peso2+peso3+..}$$
+$$media = \frac{(peso1 * valor1 + peso2 * valor2 + peso3 * valor3+...)}{peso1+peso2+peso3+..}$$
 
 **_métodos:_**
 
